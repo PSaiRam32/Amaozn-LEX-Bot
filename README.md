@@ -18,7 +18,8 @@ Deployment Architecture:
 
 ![image](https://user-images.githubusercontent.com/87435344/230006943-d263f808-b369-41e6-ac3b-b874b6e634c8.png)
 
-Procedure:
+How to Communicate:
+
 1)User can communicate with bot using through facebook page.
 
 2)User can communicate with bot which is integarted in the website hosted using aws services.
